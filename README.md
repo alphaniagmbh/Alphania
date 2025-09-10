@@ -21,7 +21,7 @@
       </div>
       <div class="meta">
         <h2>Alphania</h2>
-        <p class="desc">Alphania — (kurze Beschreibung hier einfügen). Godot 4 Projekt, ZIP: <code>Alphania.zip</code>.</p>
+        <p class="desc">Alphania — (https://drive.google.com/file/d/1wXKh0bfpNuisPDWqFi9Qx2LCmD7CkZ6N). Godot 4 Projekt, ZIP: <code>Alphania.zip</code>.</p>
 
         <div class="buttons">
           <!-- Download: lege Alphania.zip in /downloads/ -->
